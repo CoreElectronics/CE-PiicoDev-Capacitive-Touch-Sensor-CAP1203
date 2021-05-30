@@ -3,9 +3,6 @@ Follow these commented instructions to build the repo.
 Delete the instructions as you go, to keep for a cleaner final file.
  -->
 
-<!-- TODO update title to be descriptive. Eg.
-PiicoDev® [Description] [Part#]
-PiicoDev® Precision Temperature Sensor TMP117 -->
 PiicoDev® Capacitive Touch Sensor CAP1203
 
 <!-- TODO update link URL with CE SKU -->
@@ -22,6 +19,6 @@ This project is open source - please review the LICENSE.md file for further lice
 If you have any technical questions, or concerns about licensing, please contact technical support on the [Core Electronics forums](https://forum.core-electronics.com.au/).
 
 # Attribution
-The hardware design of this module is influenced by the design from [Sparkfun](https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic).
+The hardware design of this module is influenced by the design from [Sparkfun](https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_CAP1203).
 
 *\"PiicoDev\" and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.*
