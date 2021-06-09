@@ -4,13 +4,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "PiicoDev Capacitive Touch Sensor CAP1203"
+Date "2021-06-09"
+Rev "01"
 Comp "Core Electronics"
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "Designed at Core Electronics by Peter Johnston"
+Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
+Comment3 "License: CCASAv4.0 http://creativecommons.org/licenses/by-sa/4.0"
 Comment4 ""
 $EndDescr
 $Comp
