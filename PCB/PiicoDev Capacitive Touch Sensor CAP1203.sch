@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Capacitive Touch Sensor CAP1203"
-Date "2021-06-09"
-Rev "01"
+Date "2021-06-21"
+Rev "02"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Peter Johnston"
 Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
@@ -917,4 +917,80 @@ F 3 "~" H 5700 3100 50  0001 C CNN
 	1    5700 3100
 	1    0    0    -1  
 $EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G5
+U 1 1 60D07939
+P 4450 7600
+F 0 "G5" H 4400 7650 50  0000 L CNN
+F 1 "S1" H 4400 7550 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S1_Reverse" H 4450 7600 50  0001 C CNN
+F 3 "" H 4450 7600 50  0001 C CNN
+	1    4450 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G4
+U 1 1 60D089C5
+P 4450 7350
+F 0 "G4" H 4400 7400 50  0000 L CNN
+F 1 "S1" H 4400 7300 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S1_Reverse" H 4450 7350 50  0001 C CNN
+F 3 "" H 4450 7350 50  0001 C CNN
+	1    4450 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G6
+U 1 1 60D106CB
+P 4700 7350
+F 0 "G6" H 4650 7400 50  0000 L CNN
+F 1 "S2" H 4650 7300 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S2_Reverse" H 4700 7350 50  0001 C CNN
+F 3 "" H 4700 7350 50  0001 C CNN
+	1    4700 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G7
+U 1 1 60D111CB
+P 4700 7600
+F 0 "G7" H 4650 7650 50  0000 L CNN
+F 1 "S2" H 4650 7550 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S2_Reverse" H 4700 7600 50  0001 C CNN
+F 3 "" H 4700 7600 50  0001 C CNN
+	1    4700 7600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G8
+U 1 1 60D11A2F
+P 4950 7350
+F 0 "G8" H 4900 7400 50  0000 L CNN
+F 1 "S3" H 4900 7300 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S3_Reverse" H 4950 7350 50  0001 C CNN
+F 3 "" H 4950 7350 50  0001 C CNN
+	1    4950 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CoreElectronics_Artwork:Label_PCB_Art G9
+U 1 1 60D121E9
+P 4950 7600
+F 0 "G9" H 4900 7650 50  0000 L CNN
+F 1 "S3" H 4900 7550 50  0000 L CNN
+F 2 "PiicoDev Capacitive Touch Sensor CAP1203:Label_S3_Reverse" H 4950 7600 50  0001 C CNN
+F 3 "" H 4950 7600 50  0001 C CNN
+	1    4950 7600
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	5100 7200 5100 7750
+Text Notes 4300 7200 0    50   ~ 0
+PCB Labels
+Wire Notes Line
+	4300 7200 4300 7750
+Wire Notes Line
+	4300 7200 5100 7200
+Wire Notes Line
+	4300 7750 5100 7750
 $EndSCHEMATC

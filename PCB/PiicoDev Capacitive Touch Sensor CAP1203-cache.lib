@@ -133,6 +133,21 @@ P 234 0 0 1 459 33 460 33 460 34 461 34 461 35 462 35 462 36 463 37 464 37 464 3
 ENDDRAW
 ENDDEF
 #
+# CoreElectronics_Artwork_Label_PCB_Art
+#
+DEF CoreElectronics_Artwork_Label_PCB_Art G 0 40 Y Y 1 F N
+F0 "G" 0 0 50 H V C CNN
+F1 "CoreElectronics_Artwork_Label_PCB_Art" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -100 100 -100 -100 0 1 0 N
+S -100 100 100 100 0 1 0 N
+S 100 -100 -100 -100 0 1 0 N
+S 100 100 100 -100 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # CoreElectronics_Components_CAP1203
 #
 DEF CoreElectronics_Components_CAP1203 U 0 20 Y Y 1 F N
