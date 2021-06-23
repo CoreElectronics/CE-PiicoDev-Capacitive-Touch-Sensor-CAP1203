@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PiicoDev Capacitive Touch Sensor CAP1203"
-Date "2021-06-21"
+Date "2021-06-24"
 Rev "02"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Peter Johnston"
@@ -728,7 +728,7 @@ U 1 1 60AAA4AD
 P 5700 3800
 F 0 "J11" H 5808 3889 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5808 3890 50  0001 C CNN
-F 2 "CoreElectronics_Components:Conn_alligator-banana_small" H 5700 3800 50  0001 C CNN
+F 2 "CoreElectronics_Components:Conn_alligator" H 5700 3800 50  0001 C CNN
 F 3 "~" H 5700 3800 50  0001 C CNN
 	1    5700 3800
 	1    0    0    -1  
@@ -739,7 +739,7 @@ U 1 1 60AAAA30
 P 5700 3900
 F 0 "J12" H 5808 3989 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5808 3990 50  0001 C CNN
-F 2 "CoreElectronics_Components:Conn_alligator-banana_small" H 5700 3900 50  0001 C CNN
+F 2 "CoreElectronics_Components:Conn_alligator" H 5700 3900 50  0001 C CNN
 F 3 "~" H 5700 3900 50  0001 C CNN
 	1    5700 3900
 	1    0    0    -1  
@@ -750,7 +750,7 @@ U 1 1 60AAAB60
 P 5700 4000
 F 0 "J13" H 5808 4089 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5808 4090 50  0001 C CNN
-F 2 "CoreElectronics_Components:Conn_alligator-banana_small" H 5700 4000 50  0001 C CNN
+F 2 "CoreElectronics_Components:Conn_alligator" H 5700 4000 50  0001 C CNN
 F 3 "~" H 5700 4000 50  0001 C CNN
 	1    5700 4000
 	1    0    0    -1  
@@ -772,8 +772,8 @@ Wire Wire Line
 Connection ~ 5950 3600
 Text Notes 5050 3100 0    50   ~ 0
 Breakout Header
-Text Notes 4750 3900 0    50   ~ 0
-Aligator Clip Attachment
+Text Notes 4700 3900 0    50   ~ 0
+Alligator Clip Attachment
 $Comp
 L Jumper:SolderJumper_2_Bridged JP4
 U 1 1 60AD8910
