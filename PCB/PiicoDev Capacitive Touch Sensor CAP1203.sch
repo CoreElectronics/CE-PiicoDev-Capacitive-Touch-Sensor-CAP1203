@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "PiicoDev Capacitive Touch Sensor CAP1203"
 Date "2021-06-24"
-Rev "02"
+Rev "03"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Peter Johnston"
 Comment2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd."
