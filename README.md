@@ -1,17 +1,23 @@
-<!-- TODO How to use this template
-Follow these commented instructions to build the repo.
-Delete the instructions as you go, to keep for a cleaner final file.
- -->
+# PiicoDev® Capacitive Touch Sensor CAP1203
 
-PiicoDev® Capacitive Touch Sensor CAP1203
+This is the repo for the Core Electronics [PiicoDev Capacitive Touch Sensor CAP1203](https://core-electronics.com.au/catalog/product/view/sku/CE07816).
 
-<!-- TODO update link URL with CE SKU -->
-<!-- TODO update link title -->
-![](Documents/showcase-render.png)
+The PiicoDev® Capacitive Touch Sensor gives your project three touch pads to use as inputs. This is an effective way to introduce control inputs to your project.  Get creative and use other items as touch plates using PCB headers or the alligator clip connection holes.
 
-This is the repo for the Core Electronics [PiicoDev XXXXXX](https://core-electronics.com.au/catalog/product/view/sku/XXXXXX).
+- 3 Capacitive Touch Sensor inputs
+- Supports simultaneous touch events
+- Programmable sensitivity
+- Automatically calibrates at powerup
+- Activity LED shows interrupt events
+- PiicoDev connector, compatible with Qwiic and STEMMA QT (3.3V only)
+- 2.54mm breakout for breadboarding/prototyping
+- Manufactured and supported in Australia by Core Electronics
 
-<!-- TODO populate below here from the tutorial -->
+Getting Started Guides
+
+- For [Micro:bit](https://core-electronics.com.au/tutorials/raspberry-pi-pico/piicodev-capacitive-touch-sensor-cap1203-micro-bit-guide.html)
+- For [Raspberry Pi Pico](https://core-electronics.com.au/tutorials/raspberry-pi-pico/piicodev-capacitive-touch-sensor-cap1203-raspberry-pi-pico-guide.html)
+- For [Raspberry Pi](https://core-electronics.com.au/tutorials/raspberry-pi-pico/piicodev-capacitive-touch-sensor-cap1203-raspberry-pi-guide.html)
 
 # License
 This project is open source - please review the LICENSE.md file for further licensing information.
