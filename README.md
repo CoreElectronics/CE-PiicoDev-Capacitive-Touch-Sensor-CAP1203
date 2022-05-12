@@ -2,6 +2,8 @@
 
 This is the repo for the Core Electronics [PiicoDev Capacitive Touch Sensor CAP1203](https://core-electronics.com.au/catalog/product/view/sku/CE07816).
 
+![PiicoDev Capacitive Touch Sensor by Core Electronics](https://core-electronics.com.au/media/catalog/product/p/i/piicodev-capacitive-touch-sensor.jpg)
+
 The PiicoDev® Capacitive Touch Sensor gives your project three touch pads to use as inputs. This is an effective way to introduce control inputs to your project.  Get creative and use other items as touch plates using PCB headers or the alligator clip connection holes.
 
 - 3 Capacitive Touch Sensor inputs
